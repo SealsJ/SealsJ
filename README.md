@@ -1,4 +1,4 @@
-# 🐢 Jeremy Seals
+# 🦦  Jeremy Seals
 
 **`Seal Enthusiast (Web Developer / Software Engineer)`**
 
