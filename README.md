@@ -2,7 +2,7 @@
 
 **`Seal Enthusiast (Web Developer / Data Engineer)`**
 
-I'm a full-stack developer passionate about building digital software that transforms the world one step at a time. All of my coding projects are built from the ground up, from planning and designing all the way to shipping solutions to real-life problems with code. I'm eager to join a team that wants to collaborate to develop interesting solutions to problems we face in society through industries such as Tech, AI, Entertainment, Biotech, and Healthcare!
+I'm a Data Engineer passionate about building digital software that transforms the world one step at a time. All of my coding projects are built from the ground up, from planning and designing all the way to shipping solutions to real-life problems with code. I'm eager to join a team that wants to collaborate to develop interesting solutions to problems we face in society through industries such as Tech, AI, Entertainment, Biotech, and Healthcare!
 
 📫 You can reach me [here](mailto:jeremyseals@utexas.edu)! 
  
